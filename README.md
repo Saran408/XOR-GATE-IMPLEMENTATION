@@ -3,13 +3,23 @@
 # <p align="center"> XOR GATE IMPLEMENTATION </p>
 ## Aim:
    To implement multi layer artificial neural network using back propagation algorithm.
+   
+
+<br>
+
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner /Google Colab
 
+<br>
+
 ## Related Theory Concept:
 The XOR gate stands for the Exclusive-OR gate. This gate is a special type of gate used in different types of computational circuits. Apart from the AND, OR, NOT, NAND, and NOR gate, there are two special gates, i.e., Ex-OR and Ex-NOR.
 This neural network will deal with the XOR logic problem. An XOR (exclusive OR gate) is a digital logic gate that gives a true output only when both its inputs differ from each other.
+
+
+<br>
+
 ## Algorithm:
 1.Import the required libraries.<br>
 2.Create the training dataset.<br>
@@ -49,7 +59,10 @@ print(model.predict(training_data).round())
 
 ## Output:
 
-![168518291-ffea8d92-0644-4301-8c38-a74c6302cd53](https://user-images.githubusercontent.com/75235022/169445693-00d0f6f4-2f9a-4fe6-b3af-b0672b6c4ac1.png)
+![image](https://user-images.githubusercontent.com/75235427/171100816-0900e8a0-d0ab-4d08-95b6-a91f74fdfc38.png)
+
+![image](https://user-images.githubusercontent.com/75235427/171100834-9ced5e14-4d30-40cb-836b-c9afc7277571.png)
+
 
 
 ## Result:
